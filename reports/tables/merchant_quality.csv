@@ -1,0 +1,7 @@
+﻿merchant_category,merchants,impressions,avg_rating,avg_service_quality,click_rate,order_rate,gross_revenue,gross_margin
+maintenance,28,2333,4.39,0.6904,0.1522,0.0291,28377.65,9335.19
+parent_child,24,2318,4.35,0.6998,0.1601,0.0263,14149.7,4620.45
+restaurant,36,2619,4.32,0.6786,0.1439,0.0218,9877.69,3243.97
+tire_repair,19,1325,4.39,0.6634,0.1426,0.0287,5594.1,1862.61
+chauffeur,29,1559,4.41,0.7432,0.1386,0.016,4546.94,1510.41
+car_wash,24,1846,4.53,0.7535,0.1343,0.0152,2459.19,827.05

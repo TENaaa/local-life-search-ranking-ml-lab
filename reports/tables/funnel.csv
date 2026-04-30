@@ -1,0 +1,5 @@
+﻿stage,users,rate_of_sessions,step_rate
+01_search_sessions,1200,1.0,
+02_has_results,1200,1.0,1.0
+03_clicked,975,0.8125,0.8125
+04_ordered,277,0.2308,0.2841

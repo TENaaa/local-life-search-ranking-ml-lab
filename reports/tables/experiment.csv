@@ -1,0 +1,4 @@
+﻿variant,sessions,click_rate,order_rate,gross_revenue,gross_margin,gmv_per_session,margin_per_session
+holdout,189,0.8201,0.1693,8235.27,2688.76,43.57,14.23
+control,507,0.787,0.2505,28352.13,9332.77,55.92,18.41
+treatment,504,0.8353,0.2341,28417.87,9378.15,56.38,18.61

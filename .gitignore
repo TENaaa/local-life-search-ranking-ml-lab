@@ -1,0 +1,13 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+data/synthetic/
+output/
+*.sqlite
+*.db
+*.pptx
+*.xlsx
+*.key

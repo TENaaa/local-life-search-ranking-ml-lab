@@ -1,0 +1,4 @@
+﻿tail_type,sessions,impressions,impression_ctr,impression_order_rate,session_click_rate,order_rate,category_match_rate,avg_distance_km
+head,410,4100,0.1456,0.0234,0.8146,0.2341,0.7541,8.41
+mid,472,4720,0.1436,0.0235,0.8072,0.2352,0.7549,8.63
+tail,318,3180,0.1513,0.022,0.8176,0.2201,0.7503,8.62

@@ -1,0 +1,8 @@
+﻿intent_category,tail_type,sessions,order_rate,category_match_rate,avg_distance_km,avg_capacity_score,gross_revenue
+car_wash,mid,94,0.1702,0.7489,8.83,0.5853,1358.3
+chauffeur,head,101,0.1782,0.7584,8.02,0.5704,3239.84
+restaurant,mid,148,0.2027,0.752,8.87,0.6181,5074.56
+parent_child,tail,106,0.2075,0.7538,8.43,0.59,5321.1
+maintenance,tail,108,0.2315,0.737,8.85,0.6153,11051.9
+parent_child,head,84,0.2619,0.7452,8.48,0.5947,4832.66
+maintenance,mid,95,0.3158,0.7505,8.63,0.6229,12739.43
